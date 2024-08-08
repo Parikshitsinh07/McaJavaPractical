@@ -1,0 +1,3 @@
+1	Parikshit	94	93	95
+2	Keyuri	95	92	96
+3	Yshavi	91	95	93
